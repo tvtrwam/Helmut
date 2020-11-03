@@ -1,0 +1,5 @@
+Czcionki (Fonts)
+by w naszym nowym systemie exporty odbywały się, tak jak byśmy chcieli, musimy mieć również takie same czcionki na wszystkich komputerach.
+W momencie, gdy ktoś zainstaluje u siebie lokalnie nową czcionkę i użyje ją w projekcie Helmut i wyeksportuje ten plik do Playout,
+Adobe Media Encoder, znajdujący się na serwerze do renderów, weźmie w zamian inną czcionkę dostępną w jego bazie lokalnej.
+Dlatego, by nie doszło do takiej sytuacji, prosimy wysyłać swoje dodatkowe czcionki na email: adam.gajewski@tv-trwam.pl a my udostępnimy je w folderze M:\Fonts
